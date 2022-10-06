@@ -42,7 +42,9 @@ i {
 }
 /* about section */
 #About {
-  height: 20vh;
+  height: fit-content;
+  margin-bottom: 10px;
+  margin-top: 10px;
 
 }
 
