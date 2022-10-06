@@ -1,0 +1,163 @@
+/* global styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+i {
+  cursor: pointer;
+}
+
+/* header section */
+#header {
+  padding: 20px;
+  height: fit-content;
+  text-align: center;
+  background-color:beige ;
+}
+
+.profile {
+  padding: 50px;
+}
+
+.banner {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#divider {
+  height: 20px;
+  background-image:url(/images/annie-spratt-xz485Eku8O4-unsplash.jpg);
+  background-size: cover;
+}
+/* about section */
+#About {
+  height: 20vh;
+
+}
+
+#About h2 {
+  text-align: center;
+  text-decoration:solid underline;
+}
+
+#About h3 {
+  text-decoration:solid underline;
+}
+
+#About p {
+  padding-top: 20px;
+}
+
+.myInfo {
+  padding: 20px;
+  height: fit-content;
+}
+
+/* work section */
+#Work {
+  padding: 20px;
+  height: fit-content;
+  background-color:beige ;
+}
+
+/* education div */
+.education {
+  margin-top: 20px;
+}
+
+.education h2 {
+  text-align: center;
+  text-decoration:solid underline;
+}
+
+.education h3 {
+  text-decoration:solid underline;
+  padding-bottom: 10px;
+}
+
+.education p {
+  margin-bottom: 10px;
+}
+
+/* skills div */
+.skills {
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.skills h2 {
+  text-align: center;
+  text-decoration:solid underline;
+}
+
+.skills h3 {
+  padding-bottom: 10px;
+  text-decoration:solid underline;
+}
+
+/* experience div */
+.experience h2 {
+  text-align: center;
+  text-decoration:solid underline;
+}
+
+.experience h3 {
+  text-decoration:solid underline;
+  padding-bottom: 10px;
+}
+
+/* projects div */
+.projects {
+margin-top: 20px;
+}
+
+.projects h2 {
+  text-align: center;
+  text-decoration:solid underline;
+}
+
+.projects h3 {
+  text-decoration:solid underline;
+  text-align: center;
+}
+
+.projects p {
+  margin: 10px;
+  text-align: center;
+}
+
+.git {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+.video-content {
+  padding: 20px;
+  display: flex;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.video {
+margin: 0 40px 0 40px;
+}
+
+/* footer section */
+#footer {
+  height: fit-content;
+  background-color:white;
+}
