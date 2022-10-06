@@ -120,6 +120,7 @@ margin-bottom: 10px;
 /* projects div */
 .projects {
 margin-top: 20px;
+margin-bottom: 30px;
 }
 
 .projects h2 {
@@ -156,8 +157,3 @@ margin-top: 20px;
 margin: 0 40px 0 40px;
 }
 
-/* footer section */
-#footer {
-  height: fit-content;
-  background-color:white;
-}
